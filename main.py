@@ -1,5 +1,4 @@
-from mcp.server.fastmcp import FastMCP, Context
-from mcp.server.fastmcp.utilities.logging import configure_logging
+from mcp.server.fastmcp import FastMCP
 
 
 # Create an MCP server

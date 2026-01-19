@@ -1,1 +1,1 @@
-这是一个简单的 MCP Server
+这是一个采用 python 构建的 MCP Server

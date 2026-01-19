@@ -1,2 +1,1 @@
-# mcp-server
-一个简单的mcp server
+这是一个简单的 MCP Server
